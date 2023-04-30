@@ -79,6 +79,12 @@
       </a>
       <br>Storybook
     </td>
+    <td align="center" width="96"> 
+      <a href="#tech-stack" >
+        <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" width="48" height="48" alt="Storybook" />
+      </a>
+      <br>Cypress
+    </td>
   </tr> 
 </table>
 
@@ -110,12 +116,6 @@
       </a>
       <br>Bootstrap
     </td>
-     <td align="center" width="96"> 
-      <a href="#tech-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
   </tr> 
   <tr>
     <td align="center" width="96">
@@ -123,6 +123,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#tech-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
     </td>
     <td align="center" width="96"> 
       <a href="#tech-stack" >
